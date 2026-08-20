@@ -23,7 +23,3 @@ Files
 - `.env` — local environment overrides (not committed)
 - `pyproject.toml` — project metadata and dependencies
 - `Dockerfile` — container image
-
-License
-
-MIT
